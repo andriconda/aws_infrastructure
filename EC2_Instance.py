@@ -1,4 +1,5 @@
 #new comment
+#new comment 2
 import time
 from boto.ec2 import connect_to_region
 ec2_conn=connect_to_region('us-west-2',aws_access_key_id='XXXXXXXXXXXXXXXX',aws_secret_access_key='XXXXXXXXXXXXXXXX')
